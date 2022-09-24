@@ -17,10 +17,10 @@ $mahasiswa = [
 		"Gambar" => "satu.jpg"
 	],
 	[
-		"Nama" => "M Ikbal Tawakal",
+		"Nama" => "Squall Leonheart",
 		"NIK" => "3203282704940001",
-		"Email" => "tawakal.mit@gmail.com",
-		"Jurusan" => "Front End Developer",
+		"Email" => "squall@gmail.com",
+		"Jurusan" => "Back End Developer",
 		"Gambar" => "dua.jpg"
 	],
 ];
